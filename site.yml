@@ -1,16 +1,15 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Perpetual Staircase
+tagline: Keep going up!
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Ho Ming Li
+  email : homingli@gmail.com
+  github : homingli
+  twitter : horeal
+  feedburner : 
 
 navigation :
   - archive.html
   - tags.html
   - categories.html
-  - pages.html
   - about.md
   
